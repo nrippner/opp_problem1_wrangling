@@ -1,0 +1,41 @@
+Metro Area Code,Metro Area Name,Metro Area Main City,Metro Area States,Rank 2015,Rank 2014,Z-Score 2015,Z-Score 2014
+12060,Atlanta-Sandy Springs-Marietta,Atlanta,Georgia,13,18,-0.1490704,-0.8561355
+12420,Austin-Round Rock-San Marcos,Austin,Texas,1,2,4.288039,4.347403
+12580,Baltimore-Towson,Baltimore,Maryland,17,19,-0.8002363,-0.9063751
+14460,Boston-Cambridge-Quincy,Boston,Massachusetts-New Hampshire,22,31,-1.168361,-2.270829
+16740,Charlotte-Gastonia-Rock Hill,Charlotte,North Carolina-South Carolina,25,28,-1.631065,-1.958215
+16980,Chicago-Joliet-Naperville,Chicago,Illinois-Indiana-Wisconsin,21,29,-1.100626,-2.032184
+17140,Cincinnati-Middletown,Cincinnati,Ohio-Kentucky-Indiana,32,34,-2.319316,-3.107012
+17460,Cleveland-Elyria-Mentor,Cleveland,Ohio,35,36,-3.053265,-3.131752
+18140,Columbus,Columbus,Ohio,12,22,-0.029812,-1.301529
+19100,Dallas-Fort Worth-Arlington,Dallas,Texas,15,13,-0.5787617,-0.3179509
+19740,Denver-Aurora-Broomfield,Denver,Colorado,5,8,2.011969,1.067807
+19820,Detroit-Warren-Livonia,Detroit,Michigan,36,37,-3.225008,-3.538517
+26420,Houston-Sugar Land-Baytown,Houston,Texas,8,9,0.8145462,0.8439254
+26900,Indianapolis-Carmel,Indianapolis,Indiana,28,30,-1.762456,-2.118039
+27260,Jacksonville,Jacksonville,Florida,27,25,-1.72643,-1.711546
+28140,Kansas City,KansasCity,Missouri-Kansas,29,26,-1.816341,-1.816861
+29820,Las Vegas-Paradise,LasVegas,Nevada,11,14,0.4287858,-0.3728722
+31100,Los Angeles-Long Beach-Santa Ana,LosAngeles,California,4,4,2.505829,2.698671
+33100,Miami-Fort Lauderdale-Pompano Beach,Miami,Florida,2,3,4.236488,3.584113
+33340,Milwaukee-Waukesha-West Allis,Milwaukee,Wisconsin,39,39,-4.248101,-4.900307
+33460,Minneapolis-St. Paul-Bloomington,Minneapolis,Minnesota-Wisconsin,37,33,-3.753565,-3.097952
+34980,Nashville-Davidson-Murfreesboro-Franklin,Nashville,Tennessee,24,20,-1.375164,-1.217404
+35620,New York-Northern New Jersey-Long Island,NewYork,New York-New Jersey-Pennsylvania,7,6,1.256308,1.429708
+36740,Orlando-Kissimmee-Sanford,Orlando,Florida,33,21,-2.526318,-1.224736
+37980,Philadelphia-Camden-Wilmington,Philadelphia,Pennsylvania-New Jersey-Delaware-Maryland,31,32,-2.28596,-2.498846
+38060,Phoenix-Mesa-Glendale,Phoenix,Arizona,14,12,-0.1587268,0.1300942
+38300,Pittsburgh,Pittsburgh,Pennsylvania,40,40,-5.35502,-4.935004
+38900,Portland-Vancouver-Hillsboro,Portland,Oregon-Washington,26,24,-1.694747,-1.677313
+39300,Providence-New Bedford-Fall River,Providence,Rhode Island-Massachusetts,34,38,-2.728777,-3.674267
+40140,Riverside-San Bernardino-Ontario,Riverside,California,18,11,-0.9899305,0.1992835
+40900,Sacramento-Arden-Arcade-Roseville,Sacramento,California,23,16,-1.178111,-0.6086242
+41700,San Antonio-New Braunfels,SanAntonio,Texas,10,7,0.5155069,1.278278
+41740,San Diego-Carlsbad-San Marcos,SanDiego,California,9,10,0.6643296,0.527245
+41860,San Francisco-Oakland-Fremont,SanFrancisco,California,6,5,1.566042,2.206972
+41940,San Jose-Sunnyvale-Santa Clara,SanJose,California,3,1,3.044931,4.364664
+42660,Seattle-Tacoma-Bellevue,Seattle,Washington,16,17,-0.6095423,-0.7222142
+41180,St. Louis,StLouis,Missouri-Illinois,38,35,-4.140727,-3.127709
+45300,Tampa-St. Petersburg-Clearwater,Tampa,Florida,20,15,-1.033297,-0.4339076
+47260,Virginia Beach-Norfolk-Newport News,VirginiaBeach,Virginia-North Carolina,19,23,-1.022486,-1.315263
+47900,Washington-Arlington-Alexandria,Washington,District of Columbia-Virginia-Maryland-West Virginia,30,27,-1.826426,-1.822848
